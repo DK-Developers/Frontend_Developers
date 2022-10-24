@@ -1,0 +1,22 @@
+{
+  "name": "frontend_developers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DK-Developers/Frontend_Developers.git"
+  },
+  "author": "dhanur350",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DK-Developers/Frontend_Developers/issues"
+  },
+  "homepage": "https://github.com/DK-Developers/Frontend_Developers#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
